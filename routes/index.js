@@ -11,7 +11,7 @@ const localstrategy = require('passport-local');
 passport.use(new localstrategy(userModel.authenticate()));
 
 /* GET home page. */
-router.get('/', async function (req, res, next) {
+router.get('/',isLoggedIn, async function (req, res, next) {
   const tools = await toolModel.find(); 
   res.render('index', { tools });
 });
