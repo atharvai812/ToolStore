@@ -2,7 +2,7 @@
 -------//comands as per video//---------
 
 //----------TO Run----------------//
-   ) npx nodemon  
+1) npx nodemon  
 //-------------------------------//
 
 1)express pinrest --view=ejs
