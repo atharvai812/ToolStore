@@ -1,0 +1,600 @@
+[{
+  "_id": {
+    "$oid": "6566390881e08c00c9587e0d"
+  },
+  "toolname": "Grammerly",
+  "description": "Grammarly is a free AI writing assistance tool trusted by millions to enhance writing skills and communicate with confidence. It offers robust real-time communication assistance, allowing users to write, rewrite, get ideas, and quickly reply with Grammarly GO.",
+  "image": "de923f71-8208-4459-a59e-e795b7de3cc8.jpeg",
+  "link": "https://www.grammarly.com/",
+  "category": 1,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T19:01:28.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656639c681e08c00c9587e44"
+  },
+  "toolname": "Wordtune",
+  "description": "To use Wordtune, simply install the Chrome extension or add the Wordtune add-in to Microsoft Word. Once installed, you can activate Wordtune on websites like Google Docs, Gmail, LinkedIn, Facebook, Twitter, and more. As you write, Wordtune",
+  "image": "6cd32d87-ef31-46eb-a025-b89c5dd9314f.jpeg",
+  "link": "https://www.wordtune.com/",
+  "category": 1,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T19:04:38.114Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65663b0d81e08c00c9587e90"
+  },
+  "toolname": "HyperWrite AI",
+  "description": "From flawless marketing copy to everyday business communications, HyperWrite is your personal AI writing assistant. It uses the world's most powerful AI to help you work smarter, faster, and with ease. With hundreds of powerful tools, it transforms your writing",
+  "image": "f20c0011-1612-47e4-90d7-f72599aa3eb3.jpg",
+  "link": "https://www.hyperwriteai.com/",
+  "category": 1,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T19:10:05.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65663c8b81e08c00c9587eb6"
+  },
+  "toolname": "Midjourney",
+  "description": "AI art generator based on Stable Diffusion.Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species. We are a small self-funded team focused on design, human infrastructure, and AI.",
+  "image": "78ad088e-e926-420d-9cb6-abf052b8506c.jpeg",
+  "link": "https://www.midjourney.com/home",
+  "category": 2,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T19:16:27.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65663d6981e08c00c9587ed1"
+  },
+  "toolname": "Watermark Remover AI",
+  "description": "Watermark Remover AI is a powerful tool that utilizes artificial intelligence to effortlessly eliminate watermarks, logos, and other unwanted objects from your images. It seamlessly blends the surrounding pixels to restore the original image quality, leaving you with pristine,",
+  "image": "4f327111-be2c-4551-a27b-22526d0ca428.jpg",
+  "link": "https://removewatermark.ai/",
+  "category": 2,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T19:20:09.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65663e2281e08c00c9587efd"
+  },
+  "toolname": "Let's Enhance",
+  "description": "Let's Enhance is an AI-powered online photo enhancement and enlargement platform. It uses advanced algorithms and neural networks to improve image quality, increase resolution, fix blurriness and pixelation, and add clarity to photos. The platform offers a user-friendly interface",
+  "image": "9eeea6f9-da88-428c-8a64-1dbb8f0d7ee8.jpeg",
+  "link": "https://letsenhance.io/",
+  "category": 2,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T19:23:14.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566400d81e08c00c9587ff3"
+  },
+  "toolname": "CodePal",
+  "description": "CodePal is a comprehensive platform that offers a range of coding helpers and tools to assist developers. It is great for students, beginners, experienced developers, and companies who want to improve their development process.",
+  "image": "55d57d14-2fa7-45d1-8876-aaf84b8779db.jpg",
+  "link": "https://codepal.ai/",
+  "category": 4,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T19:31:25.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656641d281e08c00c958807f"
+  },
+  "toolname": "Cradl AI",
+  "description": "Cradl AI is a platform built for developers in businesses with advanced data capturing needs. It allows developers to build document parsing APIs using deep learning technology, enabling them to extract data automatically from any document.",
+  "image": "68fd600d-126e-452b-8353-d6df7232d785.jpg",
+  "link": "https://www.cradl.ai/",
+  "category": 4,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T19:38:58.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566428c81e08c00c95880b9"
+  },
+  "toolname": "Replit",
+  "description": "Replit is a collaborative browser-based IDE that allows you to write and run code in over 50 programming languages. It provides a powerful compiler and interpreter, making it easy to develop software without any setup requirements.",
+  "image": "6017ab9b-1183-43d7-bbb2-58684d381a02.jpeg",
+  "link": "https://replit.com/",
+  "category": 4,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T19:42:04.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566431381e08c00c9588112"
+  },
+  "toolname": "Entendre Finance",
+  "description": "Entendre is an automated AI accounting platform for Web3 teams to manage all their digital assets. Our platform can be integrated into any ERP, allowing for reliable and streamlined financial operations.",
+  "image": "76a39c79-7643-4b07-a0cf-9652e8d47aeb.jpg",
+  "link": "https://entendre.finance/",
+  "category": 3,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T19:44:19.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566437a81e08c00c9588146"
+  },
+  "toolname": "Taxly.ai",
+  "description": "Taxly.ai is an AI-powered tax assistant that simplifies the tax filing and preparation process in Australia. It eliminates the need for paperwork, automates tax deductions and filing, and offers personalized recommendations to optimize tax savings.",
+  "image": "349902fa-b419-4780-9e51-877e53c2be70.jpg",
+  "link": "https://taxly.ai/",
+  "category": 3,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T19:46:02.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566443681e08c00c95881c1"
+  },
+  "toolname": "ecobee",
+  "description": "ecobee makes wi-fi enabled smart thermostats for residential and commercial applications that are intuitive to use and beautiful to look at. We help you maximize comfort and savings without compromising your lifestyle.",
+  "image": "5c7c36f2-9697-4ef7-bf14-534efe6cafb8.jpg",
+  "link": "https://www.ecobee.com/",
+  "category": 3,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T19:49:10.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566457cecfa90d415bde1f1"
+  },
+  "toolname": "Adcreative.ai",
+  "description": "AdCreative.ai is an artificial intelligence-powered ad creative and banner generator that helps you sell more by improving conversion rates. Genrate social media posts in seconds, saving you time while getting better results.",
+  "image": "14ff676a-e8e4-4cc0-b73d-501e569d6335.png",
+  "link": "https://free-trial.adcreative.ai/98krjvb7wdoq",
+  "category": 5,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T19:54:36.381Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566468815b55c823d059934"
+  },
+  "toolname": "Publer",
+  "description": "Publer is a social media management tool that allows users to schedule and analyze posts for various social media platforms. With Publer, you can conveniently schedule posts for Facebook, Instagram,etc.",
+  "image": "03b1050b-dc4e-4b13-a24a-b3bf48ee7f7b.jpg",
+  "link": "https://publer.io/",
+  "category": 5,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T19:59:04.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566476115b55c823d05995e"
+  },
+  "toolname": "Scispace",
+  "description": "SciSpace is an AI-powered tool that helps users understand and analyze scientific research papers. It provides features such as highlighting text, asking questions, extracting explanations and summaries, and conducting literature reviews.",
+  "image": "36f723b0-b0e6-4732-9ca8-46d50ffaa2b2.jpeg",
+  "link": "https://typeset.io/",
+  "category": 5,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T20:02:41.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566480615b55c823d05999f"
+  },
+  "toolname": "Tutorly AI",
+  "description": "Tutorly.ai is an AI-powered homework assistant that provides solutions to a wide range of academic questions, assists in essay writing, and helps with various school requirements.",
+  "image": "2dc69367-4296-4467-9098-6767fedde339.jpg",
+  "link": "https://tutorly.ai/",
+  "category": 6,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T20:05:26.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656648da15b55c823d059a1e"
+  },
+  "toolname": "Quizbot.ai",
+  "description": "QuizBot.ai is an advanced AI writing tool that can help you create high-quality questions quickly and easily. QuizBot can assist you in generating unique and engaging solutions.",
+  "image": "bd188cf1-0d5d-4466-a5c3-5a67e307fd1c.jpg",
+  "link": "https://quizbot.ai/",
+  "category": 6,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T20:08:58.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656649d115b55c823d059a64"
+  },
+  "toolname": "Glean",
+  "description": "Glean is an enterprise search and knowledge discovery solution designed for modern teams. It allows users to search for information across all company applications, find what they need, and discover important knowledge.",
+  "image": "6d021de8-f4dc-4cb5-94d0-c4bf89fbdbb3.jpeg",
+  "link": "https://www.glean.com/",
+  "category": 6,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T20:13:05.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65664b8415b55c823d059aaa"
+  },
+  "toolname": "Async for Gmail and Chrome",
+  "description": "Async is a tool that allows users to add voice notes to their emails and work apps.Async, simply install the Gmail & Chrome extension. For Gmail, you can reply to emails by recording a voice note that will be transcribed. The voice note also includes timestamp reactions and AI summaries.",
+  "image": "b0a1326d-a9fa-45e1-9162-83ca766471d8.jpg",
+  "link": "https://chrome.google.com/webstore/detail/async-for-chrome/kmiikpmdncakkcadkabnlhifhccigpdh",
+  "category": 7,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T20:20:20.134Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65664c4c15b55c823d059af1"
+  },
+  "toolname": "Writingmate",
+  "description": "Writingmate.ai is an AI copilot for Google Docs, Slides, and Sheets that assists users with various writing and communication tasks.To use Writingmate.ai, simply install the browser extension from the respective app stores for Chrome, Firefox, or other supported browsers.",
+  "image": "33fe9221-0563-401f-824d-a011b4494c6a.jpg",
+  "link": "https://chromewebstore.google.com/detail/iihamopomflffiecicbgelncanmfionp",
+  "category": 7,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T20:23:40.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65664cc815b55c823d059b3a"
+  },
+  "toolname": "Autolicious",
+  "description": "Autolicious is a bookmark organization extension powered by ChatGPT.To use Autolicious, simply install the extension and click the bookmark button to add a bookmark. Autolicious will automatically categorize and add a description for the bookmark.",
+  "image": "a84b6268-edc3-412d-bcfd-d280caa52ea2.jpg",
+  "link": "https://chrome.google.com/webstore/detail/autolicious/jbmpomloomhbfflncpmcmfajbppfddjk",
+  "category": 7,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T20:25:44.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65664d5915b55c823d059b85"
+  },
+  "toolname": "Notion AI",
+  "description": "Notion is a connected workspace that combines wiki, docs, and project management features into one platform. It serves as an all-in-one workspace for individuals and teams, and create powerful documents.",
+  "image": "b057f1de-978a-4d8c-a66c-bced5abe708b.png",
+  "link": "https://www.notion.so/",
+  "category": 8,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T20:28:09.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65664deb15b55c823d059bc0"
+  },
+  "toolname": "Gamma AI",
+  "description": "Gamma App is a new medium powered by AI that allows users to generate beautiful and engaging presentations, webpages, and documents easily and without the need for formatting and design work. It serves as a design partner to create polished content.",
+  "image": "0200206d-047c-4bb6-827a-a9ffecef1d8e.jpg",
+  "link": "https://gamma.app/",
+  "category": 8,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T20:30:35.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65664e7715b55c823d059bf7"
+  },
+  "toolname": "Bardeen",
+  "description": "Bardeen.ai is an AI automation platform that allows users to automate their repetitive tasks. It offers integrations with popular apps and provides pre-built playbooks to streamline workflows.",
+  "image": "3fc8a7a2-bb8b-4348-974a-4c0c738a5236.jpg",
+  "link": "https://www.bardeen.ai/",
+  "category": 8,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T20:32:55.776Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65664f1415b55c823d059c51"
+  },
+  "toolname": "MagicSlides",
+  "description": "MagicSlides is an AI-powered Google Slide add-on that can summarize and create presentation slides from any given text.MagicSlides offers the following core features is Text summarization and slide generation with AI integration",
+  "image": "692d4aa6-ce66-43b3-8e96-6e8132638040.jpeg",
+  "link": "https://www.magicslides.app/",
+  "category": 9,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T20:35:32.722Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65664f6a15b55c823d059c8b"
+  },
+  "toolname": "SlideSpeak",
+  "description": "SlideSpeak is a chat platform powered by ChatGPT that allows users to interact with their PowerPoint slides. Users can upload their PowerPoint files and generate summaries, and get action items from the presentations.",
+  "image": "ca95b256-0d88-46e3-89db-9e702f0cf9dd.jpg",
+  "link": "https://slidespeak.co/",
+  "category": 9,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T20:36:58.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65664fe615b55c823d059ce4"
+  },
+  "toolname": "Powerpresent AI",
+  "description": "Powerpresent AI is a powerful tool that utilizes AI technology to create stunning presentations 10 times faster. By simply entering a topic or some text, users can let the AI do the rest and generate professional presentations automatically.",
+  "image": "680973d4-8ebf-4084-bec8-66ed88a5a6e9.jpeg",
+  "link": "https://powerpresent.ai/",
+  "category": 9,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T20:39:02.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656650a715b55c823d059dbf"
+  },
+  "toolname": "Phind",
+  "description": "Query Search allows you to find relevant results for any development related query using natural language. You have the ability to customize your search based on time and toggle display links.",
+  "image": "033a2e00-91c1-4c47-84a7-5ce11c8a95b1.jpeg",
+  "link": "https://phind.com/",
+  "category": 10,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T20:42:15.916Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566512a15b55c823d059e1a"
+  },
+  "toolname": "Humata AI",
+  "description": "Humata is an AI-powered tool that allows you to ask questions about your data and get instant answers. It can learn, summarize, synthesize, and extract valuable information from your files 100 times faster.",
+  "image": "da76e560-5d0f-4137-bbbd-276745b73a97.jpeg",
+  "link": "https://www.humata.ai/?via=toolify",
+  "category": 10,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T20:44:26.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656652be15b55c823d059fdd"
+  },
+  "toolname": "Namelix",
+  "description": "amelix is a free AI-powered business name generator tool. It utilizes generative AI to create short, brandable business names. It also offers domain availability search and instant logo generation for your new business.",
+  "image": "22c7e2d8-a26b-44f1-95b7-c92a48d41433.jpeg",
+  "link": "https://namelix.com/",
+  "category": 10,
+  "user": {
+    "$oid": "656637e281e08c00c9587de7"
+  },
+  "likes": [
+    0
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T20:51:10.667Z"
+  },
+  "__v": 0
+}]
